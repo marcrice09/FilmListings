@@ -1,0 +1,24 @@
+
+# dependencies
+film-listings/node_modules/
+filmlistingsAPI/node_modules/
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+film-listings/.next/
+film-listings/out/
+
+# production
+film-listings/build
+
+# misc
+*.DS_Store*
+
+# debug
+film-listings/npm-debug.log*
+film-listings/yarn-debug.log*
+film-listings/yarn-error.log*
